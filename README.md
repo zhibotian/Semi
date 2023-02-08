@@ -29,3 +29,4 @@
 - [2022 CVPR] [UCC: Uncertainty guided Cross-head Co-training for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2205.10334)
 - [2022 NeurIPS] [Semi-supervised Semantic Segmentation with Prototype-based Consistency Regularization](https://arxiv.org/pdf/2210.04388.pdf) [[Code](https://github.com/HeimingX/semi_seg_proto)]
 - [2022 NeurIPS] [Semi-Supervised Semantic Segmentation via Gentle Teaching Assistant](https://arxiv.org/pdf/2301.07340.pdf) [[Code](https://github.com/Jin-Ying/GTA-Seg)]
+- [2023 WACV] [Pruning-Guided Curriculum Learning for Semi-Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2023/papers/Kong_Pruning-Guided_Curriculum_Learning_for_Semi-Supervised_Semantic_Segmentation_WACV_2023_paper.pdf)
