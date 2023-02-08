@@ -27,3 +27,4 @@
 - [2022 CVPR] [Unbiased Subclass Regularization for Semi-Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Guan_Unbiased_Subclass_Regularization_for_Semi-Supervised_Semantic_Segmentation_CVPR_2022_paper.pdf) [[Code](https://github.com/Dayan-Guan/USRN)]
 - [2022 CVPR] [Semi-supervised Semantic Segmentation with Error Localization Network](https://arxiv.org/abs/2204.02078) [[Code](https://github.com/kinux98/SSL_ELN)]
 - [2022 CVPR] [UCC: Uncertainty guided Cross-head Co-training for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2205.10334)
+- [2022 NeurIPS] [Semi-supervised Semantic Segmentation with Prototype-based Consistency Regularization](https://arxiv.org/pdf/2210.04388.pdf) [[Code](https://github.com/HeimingX/semi_seg_proto)]
