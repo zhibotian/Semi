@@ -28,3 +28,4 @@
 - [2022 CVPR] [Semi-supervised Semantic Segmentation with Error Localization Network](https://arxiv.org/abs/2204.02078) [[Code](https://github.com/kinux98/SSL_ELN)]
 - [2022 CVPR] [UCC: Uncertainty guided Cross-head Co-training for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2205.10334)
 - [2022 NeurIPS] [Semi-supervised Semantic Segmentation with Prototype-based Consistency Regularization](https://arxiv.org/pdf/2210.04388.pdf) [[Code](https://github.com/HeimingX/semi_seg_proto)]
+- [2022 NeurIPS] [Semi-Supervised Semantic Segmentation via Gentle Teaching Assistant](https://arxiv.org/pdf/2301.07340.pdf) [[Code](https://github.com/Jin-Ying/GTA-Seg)]
