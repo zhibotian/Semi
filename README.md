@@ -32,4 +32,5 @@
 - [2023 WACV] [Pruning-Guided Curriculum Learning for Semi-Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2023/papers/Kong_Pruning-Guided_Curriculum_Learning_for_Semi-Supervised_Semantic_Segmentation_WACV_2023_paper.pdf)
 - [2022 IJCAI] [Region-level Contrastive and Consistency Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/pdf/2204.13314.pdf)
 - [2023 CVPR] [Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2208.09910)[[Code](https://github.com/LiheYoung/UniMatch)]
-- [2023 CVPR] [Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2208.09910)[[Code](https://github.com/LiheYoung/UniMatch)]
+- [2023 CVPR] [Conflict-Based Cross-View Consistency for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2303.01276v1)[[Code](https:
+//github.com/xiaoyao3302/CCVC)]
